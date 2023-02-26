@@ -1,7 +1,12 @@
 {
   "name": "babel-plugin-console-line",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Add line information to console.log statements",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mburakerman/babel-plugin-console-line.git"
+  },
+  "homepage": "https://github.com/mburakerman/babel-plugin-console-line",
   "main": "index.js",
   "scripts": {
     "test": "jest"
