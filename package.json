@@ -6,7 +6,13 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "babel-plugin",
+    "console",
+    "console-log",
+    "console.log",
+    "babel-plugin-console-line"
+  ],
   "author": "mburakerman",
   "license": "ISC",
   "devDependencies": {
