@@ -14,7 +14,7 @@ Your `console.log`
 console.log("hello")
 ```
 
-Now now with line info 🤙🏼
+Now with line info 🤙🏼
 
 ```
 console.log("(line:1)", "hello")
