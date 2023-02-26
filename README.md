@@ -8,7 +8,7 @@ Add line information to `console.log` statements
 
 <br/>
 
-Your `console.log` ⏬
+Your `console.log`
 
 ```
 console.log("hello")
