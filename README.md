@@ -1,5 +1,7 @@
 ## babel-plugin-console-line
 
+> Add line information to `console.log` statements
+
 <br/>
 
 Your `console.log` ⏬
