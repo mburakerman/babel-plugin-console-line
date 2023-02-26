@@ -1,6 +1,10 @@
-## `babel-plugin-console-line` 
+## `babel-plugin-console-line`
 
 Add line information to `console.log` statements
+
+<br/>
+
+[![NPM](https://img.shields.io/npm/v/babel-plugin-console-line)](https://www.npmjs.com/package/babel-plugin-console-line)
 
 <br/>
 
